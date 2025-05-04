@@ -1,0 +1,582 @@
+,phrase,intent
+0,Hello,greetings
+1,Hi,greetings
+2,Hey,greetings
+3,Good day,greetings
+4,Howdy,greetings
+5,Hi there,greetings
+6,Hey there,greetings
+7,Greetings,greetings
+8,Good morning,greetings
+9,Good afternoon,greetings
+10,Good evening,greetings
+11,What’s up?,greetings
+12,Yo,greetings
+13,Sup,greetings
+14,Heya,greetings
+15,"Hi, how are you?",greetings
+16,"Hello, is anyone here?",greetings
+17,"Hi, I need some help",greetings
+18,"Hey, can I ask something?",greetings
+19,Hello there!,greetings
+20,"Hi, can you assist me?",greetings
+21,"Hey, I’m new here",greetings
+22,"Hi, just looking around",greetings
+23,"Hello, chatbot",greetings
+24,What’s going on?,greetings
+25,Hi!,greetings
+26,Hello friend,greetings
+27,Morning!,greetings
+28,Afternoon!,greetings
+29,Evening!,greetings
+30,Hey team,greetings
+31,Hello support,greetings
+32,Hi again,greetings
+33,Hello again,greetings
+34,Long time no see,greetings
+35,It’s good to see you,greetings
+36,Yo! Anybody home?,greetings
+37,"Hi, just checking in",greetings
+38,"Hello, I’m back",greetings
+39,Hey assistant,greetings
+40,Hey bot,greetings
+41,Good to be here,greetings
+42,Hi support,greetings
+43,Is anyone here?,greetings
+44,Can someone help?,greetings
+45,"Hello, need a bit of help",greetings
+46,"Hi, quick question",greetings
+47,"Hi, I’m here",greetings
+48,"Hello, how’s it going?",greetings
+49,"Hey, what’s happening?",greetings
+50,"Hi, need help here",greetings
+51,Hey you!,greetings
+52,"Greetings, bot",greetings
+53,Hi AI,greetings
+54,"Hello, just arrived",greetings
+55,"Hey, long time!",greetings
+56,Good to meet you,greetings
+57,"Hi, is this working?",greetings
+58,"Hey there, bot",greetings
+59,Good vibes!,greetings
+60,Nice to be here,greetings
+61,"Yo bot, what’s up?",greetings
+62,Wassup!,greetings
+63,How’s everything?,greetings
+64,How are things?,greetings
+65,Hi pal,greetings
+66,Hi champ,greetings
+67,"Hey there, genius!",greetings
+68,Greetings to you,greetings
+69,Sup bot,greetings
+70,Hi awesome bot,greetings
+71,Hey genius,greetings
+72,Hey techie,greetings
+73,Hello genius assistant,greetings
+74,Good morning assistant,greetings
+75,Good evening AI,greetings
+76,Hi there buddy,greetings
+77,Good afternoon bot,greetings
+78,Hi again AI,greetings
+79,How’s your day?,greetings
+80,I’m here,greetings
+81,Hey I’m online,greetings
+82,Heyo,greetings
+83,Hi helper,greetings
+84,Hi there teacher,greetings
+85,Hello smartie,greetings
+86,Yo assistant,greetings
+87,Hi mate,greetings
+88,Hey digital buddy,greetings
+89,Good day my friend,greetings
+90,Hi guide,greetings
+91,Hi facilitator,greetings
+92,Hello beautiful AI,greetings
+93,Hi coach,greetings
+94,Hey superstar,greetings
+95,Hi hero,greetings
+96,Greetings assistant,greetings
+97,Hey virtual friend,greetings
+98,Hi machine,greetings
+99,Hey bot bro,greetings
+100,Good noon!,greetings
+101,Good night assistant,greetings
+102,Hey leader,greetings
+103,Hi master,greetings
+104,Hello helper,greetings
+105,Hi navigator,greetings
+106,Hey brainiac,greetings
+107,Hi learner,greetings
+108,Good noon AI,greetings
+109,Hi tech bot,greetings
+110,Hey assistant pal,greetings
+111,Hi you there!,greetings
+112,Hello new friend,greetings
+113,Hey intelligence,greetings
+114,Hi wizard,greetings
+115,Hi robo,greetings
+116,Hello from the other side,greetings
+117,Good evening digital friend,greetings
+118,Hey mate,greetings
+119,"Hi again, assistant",greetings
+120,Hello my friend,greetings
+121,Hey support team,greetings
+122,Hi crew,greetings
+123,Hey bot master,greetings
+124,Hi chat system,greetings
+125,Hi learning assistant,greetings
+126,"Hey, robot pal",greetings
+127,Hi AI assistant,greetings
+128,Greetings and cheers!,greetings
+129,Hello tech friend,greetings
+130,Hello botman,greetings
+131,Good morning friend,greetings
+132,Hey robo-pal,greetings
+133,Hello world,greetings
+134,Howdy chatbot,greetings
+135,What’s happening?,greetings
+136,Hey again,greetings
+137,Welcome bot,greetings
+138,Hi botman,greetings
+139,Hello navigator,greetings
+140,Hi AI genius,greetings
+141,Hey engine,greetings
+142,Hi support machine,greetings
+143,Hi teacher bot,greetings
+144,Hello virtual brain,greetings
+145,Hi code buddy,greetings
+146,Hey miracle,greetings
+147,Hi clever bot,greetings
+148,Greetings and salutations,greetings
+149,I want to enroll,enrollment
+150,How can I sign up?,enrollment
+151,I’d like to register for a course,enrollment
+152,Help me with enrollment,enrollment
+153,I want to join a course,enrollment
+154,Can I enroll now?,enrollment
+155,Where do I register?,enrollment
+156,Register me for a course,enrollment
+157,I’m ready to start learning,enrollment
+158,Sign me up,enrollment
+159,How do I get started?,enrollment
+160,I want to begin a course,enrollment
+161,How do I register?,enrollment
+162,I’m interested in joining,enrollment
+163,Can I join the class?,enrollment
+164,Tell me how to enroll,enrollment
+165,Please sign me up,enrollment
+166,I want to start the course,enrollment
+167,What’s the enrollment process?,enrollment
+168,How do I sign up for a course?,enrollment
+169,Is registration open?,enrollment
+170,I need help signing up,enrollment
+171,Where can I register?,enrollment
+172,I’d like to start learning,enrollment
+173,Can I register for a class?,enrollment
+174,I want to take this course,enrollment
+175,How to join your classes?,enrollment
+176,Can I start now?,enrollment
+177,How do I enroll in your program?,enrollment
+178,Show me how to register,enrollment
+179,I want to apply for a course,enrollment
+180,Where do I begin the enrollment?,enrollment
+181,How can I apply?,enrollment
+182,I want to be part of this course,enrollment
+183,I want to study this subject,enrollment
+184,Enroll me now,enrollment
+185,I'm ready to enroll,enrollment
+186,I'd like to begin a class,enrollment
+187,How do I begin a new course?,enrollment
+188,I’m signing up today,enrollment
+189,How can I get started with learning?,enrollment
+190,I’m ready to join,enrollment
+191,How do I apply for this training?,enrollment
+192,Let me in!,enrollment
+193,I want to start today,enrollment
+194,I’m interested in starting now,enrollment
+195,How do I become a student?,enrollment
+196,I'd love to register for a course,enrollment
+197,I’m eager to join a class,enrollment
+198,Ready to enroll,enrollment
+199,Sign me up please,enrollment
+200,Where do I sign up?,enrollment
+201,I’m interested in your training,enrollment
+202,Start my enrollment,enrollment
+203,Help me get in,enrollment
+204,I want access to the course,enrollment
+205,I want to study now,enrollment
+206,I’m set to enroll,enrollment
+207,Can I be a student?,enrollment
+208,I want a seat in the course,enrollment
+209,I want to be part of your training,enrollment
+210,Please guide me through enrollment,enrollment
+211,Register me please,enrollment
+212,Give me access,enrollment
+213,Walk me through registration,enrollment
+214,I’m here to learn,enrollment
+215,I need to apply,enrollment
+216,Give me the application form,enrollment
+217,How do I register myself?,enrollment
+218,I want to join today,enrollment
+219,Let me take the course,enrollment
+220,I’m interested in learning this,enrollment
+221,How do I enroll now?,enrollment
+222,Tell me where to apply,enrollment
+223,How do I register fast?,enrollment
+224,Where’s the sign-up page?,enrollment
+225,Sign up me,enrollment
+226,I’m all set for a new course,enrollment
+227,I need to sign up,enrollment
+228,Start my course registration,enrollment
+229,Register me instantly,enrollment
+230,Let me be your student,enrollment
+231,Start course registration now,enrollment
+232,I’m ready for class,enrollment
+233,Add me to the course,enrollment
+234,Initiate enrollment process,enrollment
+235,Begin course enrollment,enrollment
+236,Where to apply?,enrollment
+237,I’d like to get started,enrollment
+238,Join me to the training,enrollment
+239,How can I register easily?,enrollment
+240,I’d like to register quickly,enrollment
+241,I’m here to sign up,enrollment
+242,Direct me to register,enrollment
+243,Where is the registration page?,enrollment
+244,I want to register now,enrollment
+245,Guide me through the application,enrollment
+246,How to become part of this?,enrollment
+247,I’m in for the course,enrollment
+248,Ready to start the journey,enrollment
+249,Let’s begin the course,enrollment
+250,Kindly enroll me,enrollment
+251,I want to proceed with registration,enrollment
+252,Sign me up ASAP,enrollment
+253,How do I access the course?,enrollment
+254,Begin my learning path,enrollment
+255,Tell me how to register easily,enrollment
+256,I’m committed to this course,enrollment
+257,Help with registration,enrollment
+258,Where’s the registration form?,enrollment
+259,Lead me to register,enrollment
+260,Enroll me today,enrollment
+261,Allow me to join,enrollment
+262,Give me student access,enrollment
+263,How do I complete my registration?,enrollment
+264,Show me the way to register,enrollment
+265,Let’s get started with this class,enrollment
+266,I’m ready to register and start,enrollment
+267,Is the registration still ongoing?,enrollment
+268,I’d like to fill the application form,enrollment
+269,How do I begin this training?,enrollment
+270,Ready to be part of this learning,enrollment
+271,Show me how to start now,enrollment
+272,Please add me as a student,enrollment
+273,Where is the enroll option?,enrollment
+274,Help me sign up now,enrollment
+275,Can you get me registered?,enrollment
+276,Activate my registration,enrollment
+277,I’d like to be included in the course,enrollment
+278,How much does the course cost?,pricing
+279,What’s the price of this course?,pricing
+280,Can you tell me the fees?,pricing
+281,What is the cost?,pricing
+282,Is there a payment plan?,pricing
+283,Do I have to pay for this course?,pricing
+284,Are there any free courses?,pricing
+285,What's the tuition?,pricing
+286,How much is the fee?,pricing
+287,Is this course paid?,pricing
+288,Tell me the price,pricing
+289,How much do I need to pay?,pricing
+290,Do you offer any discounts?,pricing
+291,Is there a discount available?,pricing
+292,How much is it per course?,pricing
+293,What's the total cost?,pricing
+294,Are there any hidden fees?,pricing
+295,What's your course fee?,pricing
+296,What’s the pricing like?,pricing
+297,Give me the course cost,pricing
+298,Tell me about the charges,pricing
+299,Can I get a breakdown of the fees?,pricing
+300,Do I have to pay upfront?,pricing
+301,Is the course expensive?,pricing
+302,Any info about pricing?,pricing
+303,How much does it cost per month?,pricing
+304,Do I need to subscribe?,pricing
+305,Is it a one-time fee?,pricing
+306,What’s the registration fee?,pricing
+307,Any scholarships available?,pricing
+308,Is there a fee waiver?,pricing
+309,What are the payment options?,pricing
+310,How do I pay for a course?,pricing
+311,Are installment plans available?,pricing
+312,Is there a trial period?,pricing
+313,How much will it cost me?,pricing
+314,Is this affordable?,pricing
+315,What’s the cost to join?,pricing
+316,How much do courses go for?,pricing
+317,Is it free?,pricing
+318,Are there monthly payments?,pricing
+319,What are the financial requirements?,pricing
+320,What is the charge?,pricing
+321,Can I see the pricing details?,pricing
+322,Do you accept partial payments?,pricing
+323,What’s the enrollment fee?,pricing
+324,What’s your pricing structure?,pricing
+325,Is the first class free?,pricing
+326,What are the fees per class?,pricing
+327,I want to know the cost,pricing
+328,What are the different course prices?,pricing
+329,Give me the fee breakdown,pricing
+330,How much is the course registration?,pricing
+331,Is there a cost for this class?,pricing
+332,Can I pay in parts?,pricing
+333,What’s the amount for enrollment?,pricing
+334,I want to know the total charges,pricing
+335,Can you share course price details?,pricing
+336,List your tuition fees,pricing
+337,What's your cheapest course?,pricing
+338,Is this training affordable?,pricing
+339,Are there any payment packages?,pricing
+340,Is it pay-as-you-go?,pricing
+341,How do I make payment?,pricing
+342,Is the fee refundable?,pricing
+343,Do you offer trial access?,pricing
+344,Are weekend classes priced differently?,pricing
+345,How much for the full course duration?,pricing
+346,Any first-time student discount?,pricing
+347,What's the average course fee?,pricing
+348,How much is a monthly plan?,pricing
+349,How often do I pay?,pricing
+350,Is it subscription-based?,pricing
+351,Are there coupon codes?,pricing
+352,What’s the payment frequency?,pricing
+353,Do you charge per hour or per course?,pricing
+354,What are the course payment terms?,pricing
+355,How much will I pay for certification?,pricing
+356,Is pricing flexible?,pricing
+357,Is there a joining fee?,pricing
+358,Do you accept crypto or card?,pricing
+359,Tell me all your pricing options,pricing
+360,Are international students charged differently?,pricing
+361,Is there a difference in pricing per subject?,pricing
+362,How much for advanced courses?,pricing
+363,Any free courses for students?,pricing
+364,How much if I take multiple courses?,pricing
+365,Is there a trial version?,pricing
+366,What's your pricing for group training?,pricing
+367,Are prices negotiable?,pricing
+368,Is payment installment allowed?,pricing
+369,Give me cost estimate,pricing
+370,I need detailed cost breakdown,pricing
+371,Can I pay in naira or dollars?,pricing
+372,Are weekend classes cheaper?,pricing
+373,What's the discount for early payment?,pricing
+374,Is the pricing flat-rate or per module?,pricing
+375,What’s the cost if I refer someone?,pricing
+376,Do you have holiday discounts?,pricing
+377,What is the full price?,pricing
+378,What's the least I can pay to join?,pricing
+379,Please check my enrollment record,tracking
+380,Where do I find my current courses?,tracking
+381,I need my registration info,tracking
+382,Can I see my past lessons?,tracking
+383,How do I monitor course completion?,tracking
+384,Where do I see my classes?,tracking
+385,I want to view my attendance,tracking
+386,What’s my current learning status?,tracking
+387,Where’s my lesson timetable?,tracking
+388,How many modules have I done?,tracking
+389,Where’s my learning dashboard?,tracking
+390,Can I review my class record?,tracking
+391,I need help with tracking my learning,tracking
+392,How do I view my history?,tracking
+393,How much course progress have I made?,tracking
+394,Where’s my student profile?,tracking
+395,Give me an update on my studies,tracking
+396,Can I access my academic record?,tracking
+397,Tell me my completion status,tracking
+398,How do I check my student account?,tracking
+399,Where can I check what I’ve completed?,tracking
+400,What’s the progress on my course?,tracking
+401,Where’s my student portal?,tracking
+402,I want to resume my previous lesson,tracking
+403,Show me where I left off,tracking
+404,Is there a way to know my study status?,tracking
+405,How many units have I finished?,tracking
+406,Give me my registration update,tracking
+407,Is my schedule updated?,tracking
+408,I want to see my progress report,tracking
+409,Can I track class attendance?,tracking
+410,Where’s the tracker for my lessons?,tracking
+411,Have I completed all assignments?,tracking
+412,How do I track my assessment progress?,tracking
+413,How much more before I finish?,tracking
+414,Can you retrieve my class record?,tracking
+415,Tell me what I missed,tracking
+416,I need to continue my course,tracking
+417,Show my previous lesson,tracking
+418,Is my course paused?,tracking
+419,Help me view course completion,tracking
+420,Where is my course?,tracking
+421,Can you show me the course I registered for?,tracking
+422,I want to check my course progress,tracking
+423,How do I track my enrolled course?,tracking
+424,What is the status of my registration?,tracking
+425,Can you tell me where my course is?,tracking
+426,I need to check my course details,tracking
+427,Track my course for me,tracking
+428,Has my course started yet?,tracking
+429,I want to know the status of my course,tracking
+430,When will my course begin?,tracking
+431,Can you give me an update on my course?,tracking
+432,How far along am I in my course?,tracking
+433,What’s the next step in my course?,tracking
+434,Can I check my course timeline?,tracking
+435,Show me the details of my enrolled course,tracking
+436,I want to know what’s next in my course,tracking
+437,Is my course still active?,tracking
+438,Can I see my course progress?,tracking
+439,Tell me about my course enrollment,tracking
+440,Is my course running on schedule?,tracking
+441,Where can I find my course updates?,tracking
+442,Can you provide information on my course?,tracking
+443,Has my course been completed?,tracking
+444,Can you help me check my course status?,tracking
+445,Where can I track my course progress?,tracking
+446,I want to know the start date of my course,tracking
+447,Can I track my learning progress?,tracking
+448,When is the next class in my course?,tracking
+449,Is there any new information on my course?,tracking
+450,How do I track my learning path?,tracking
+451,Give me an update on my course schedule,tracking
+452,How much of my course is complete?,tracking
+453,Where can I find updates on my course?,tracking
+454,Tell me when my next lesson is,tracking
+455,I need help checking my course progress,tracking
+456,When will I finish my course?,tracking
+457,Can I see my learning milestones?,tracking
+458,Is my course on schedule?,tracking
+459,Can I see my course materials?,tracking
+460,Where do I check my course status?,tracking
+461,How can I find my enrolled courses?,tracking
+462,I need details on my course enrollment,tracking
+463,Can you track my registration?,tracking
+464,Is my course still available?,tracking
+465,I want to know my course schedule,tracking
+466,Can you show me my course timeline?,tracking
+467,Do unicorns exist?,fallback
+468,What time is it in Mars?,fallback
+469,Can you paint?,fallback
+470,Make a poem about bananas,fallback
+471,Start the spaceship,fallback
+472,Do you sleep?,fallback
+473,What's your purpose in life?,fallback
+474,Do you watch Netflix?,fallback
+475,How do you feel about AI?,fallback
+476,Tell me something useless,fallback
+477,Why is my cat staring at me?,fallback
+478,Is cereal soup?,fallback
+479,What came first: the chicken or the egg?,fallback
+480,Do you have dreams?,fallback
+481,How do I become invisible?,fallback
+482,What's your favorite planet?,fallback
+483,Turn into a dragon,fallback
+484,Can you teleport?,fallback
+485,Let’s play a game,fallback
+486,Can you do magic?,fallback
+487,Create a fantasy story,fallback
+488,What's your superpower?,fallback
+489,Recite a tongue twister,fallback
+490,Do you believe in time travel?,fallback
+491,Can you roar like a lion?,fallback
+492,What’s your zodiac sign?,fallback
+493,Tell me something absurd,fallback
+494,How old are you in dog years?,fallback
+495,Can I eat cookies for dinner?,fallback
+496,What’s your favorite meme?,fallback
+497,Tell me a joke,fallback
+498,What's the weather like?,fallback
+499,Can you dance?,fallback
+500,Open YouTube,fallback
+501,Who is the president?,fallback
+502,Play me a song,fallback
+503,What’s your name?,fallback
+504,Translate this to French,fallback
+505,What's 2 + 2?,fallback
+506,How are you feeling today?,fallback
+507,Call my friend,fallback
+508,What's the capital of Mars?,fallback
+509,Do aliens exist?,fallback
+510,Wake me up at 7am,fallback
+511,I like pizza,fallback
+512,Banana,fallback
+513,Let’s go on an adventure,fallback
+514,Do you have a crush on Siri?,fallback
+515,Turn off the lights,fallback
+516,Tell me about Elon Musk,fallback
+517,What's your favorite color?,fallback
+518,Knock knock,fallback
+519,Meow,fallback
+520,Can you cook?,fallback
+521,Why is the sky blue?,fallback
+522,How tall is Mount Everest?,fallback
+523,Do you believe in ghosts?,fallback
+524,Blah blah blah,fallback
+525,Open calculator,fallback
+526,I’m bored,fallback
+527,Hello how have you been,greetings
+528,i want to check the courses i paid for,tracking
+529,I want to confirm my registered courses,tracking
+530,,
+0,Can I talk to a human?,fallback
+1,What is the meaning of life?,fallback
+2,Blah blah blah,fallback
+3,I don’t get it,fallback
+4,You’re not making sense,fallback
+5,Why is the sky blue?,fallback
+6,Tell me a joke,fallback
+7,Random text input,fallback
+8,I need help with my refrigerator,fallback
+9,Pineapples on pizza yay or nay?,fallback
+10,What day is it today?,fallback
+11,Just testing,fallback
+12,What are you?,fallback
+13,Do you like coffee?,fallback
+14,I'm confused,fallback
+15,Who created you?,fallback
+16,Can you sing?,fallback
+17,I’m just bored,fallback
+18,Let’s be friends,fallback
+19,I’m angry,fallback
+20,Are you a real person?,fallback
+21,Where am I?,fallback
+22,What does Poshem mean?,fallback
+23,Can you dance?,fallback
+24,How’s the weather?,fallback
+25,Do you like music?,fallback
+26,What’s up?,fallback
+27,Stop talking,fallback
+28,I didn’t ask you anything,fallback
+29,Tell me about Mars,fallback
+30,Huh?,fallback
+31,That’s not what I meant,fallback
+32,What do you want from me?,fallback
+33,Say something smart,fallback
+34,ASDFGHJKL,fallback
+35,I like turtles,fallback
+36,This is a test,fallback
+37,Never mind,fallback
+38,Do aliens exist?,fallback
+39,Do you love me?,fallback
+40,Why are you like this?,fallback
+41,Can I borrow your charger?,fallback
+42,What do you mean?,fallback
+43,I don’t care,fallback
+44,Help me fly,fallback
+45,Too many words,fallback
+46,Hmmmmmm,fallback
+47,Speak in French,fallback
+48,I don’t want to talk,fallback
+49,What’s your favorite movie?,fallback

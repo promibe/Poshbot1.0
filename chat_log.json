@@ -1,0 +1,17 @@
+{"timestamp": "2025-04-09T01:30:02.112496", "user_input": "hi", "predicted_intent": "greetings", "bot_response": "Nice, you are very much welcome to Poshem! What do you want to do?\n- Do want to enroll/register for a course?\n- Check the price of our courses?\n- Confirm your registered courses?"}
+{"timestamp": "2025-04-09T01:31:10.733253", "user_input": "hi", "predicted_intent": "greetings", "bot_response": "Nice, you are very much welcome to Poshem! What do you want to do?\n- Do want to enroll/register for a course?\n- Check the price of our courses?\n- Confirm your registered courses?"}
+{"timestamp": "2025-04-09T01:40:28.196987", "user_input": "hi", "predicted_intent": "greetings", "bot_response": "Nice, you are very much welcome to Poshem! What do you want to do?\n- Do want to enroll/register for a course?\n- Check the price of our courses?\n- Confirm your registered courses?"}
+{"timestamp": "2025-04-09T02:01:54.551263", "user_input": "hi", "predicted_intent": "greetings", "bot_response": "Nice, you are very much welcome to Poshem! What do you want to do?\n- Do want to enroll/register for a course?\n- Check the price of our courses?\n- Confirm your registered courses?"}
+Task exception was never retrieved
+future: <Task finished name='Task-6688' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at C:\Users\DELL\anaconda3\Lib\site-packages\tornado\websocket.py:1086> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\tornado\websocket.py", line 1088, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\tornado\websocket.py", line 1090, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError

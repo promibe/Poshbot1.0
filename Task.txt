@@ -1,0 +1,38 @@
+1. ------ Design a database, create course table, order table, track_order table, course_status table ----------- Done
+
+2. ------ design the intent and response to receive users details ---------- Done 
+
+3. ------ provide the training phrase -------- Done
+
+4. ------ design a fallback intent ------ Done 
+
+5. ------ use NLP to extract user informations Done
+
+6. ------ build GUI
+
+7. ------ deploy using streamlit
+
+------------------------------------------------
+==================================================================================
+
+====list of intent====
+
+1. Greetings: Hello welcome to poshem... Let's chat ---- hi
+
+2. order: Do you want to order a course or track your course status
+
+3. order.course: These are the courses poshem offers: Excel, Powerbi, SQL. Specify Name, age, phone number, Qualification and course you want.
+	example: you can say: My name is Promise, i am 30 years old, B-Tech computer science, this is my phone number: 07063083925, i want to learn Excel
+	
+	response: order receive, any other thing ?
+	
+	your order id is id_number
+
+4. Fallback intent: Invalid request format, kindly request with the below format.
+
+5. track order: enter order id
+	response: your course is(not) available
+
+
+Greetings, inquiry, order, track, invalid
+
